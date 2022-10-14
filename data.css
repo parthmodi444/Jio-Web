@@ -34,6 +34,8 @@ strong {
 	margin-bottom: 30px;
   border-radius:25px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  box-shadow: 0 0 5px 5px rgba(109, 2, 48, 0.189);
+  border-color: rgb(74, 9, 69);
 } 
 
  .title {
@@ -105,14 +107,14 @@ strong {
   .rectangle {
     position: relative;
     padding: 20px;
-    box-shadow: 0 0 5px 5px rgba(109, 2, 48, 0.516);
+    box-shadow:  0 0 5px 5px rgba(109, 2, 48, 0.393);
     border-color: rgb(74, 9, 69);
     
   }
   .rounded-circle {
     position: relative;
     padding: 15px;
-    box-shadow: 0 0 5px 5px rgba(109, 2, 48, 0.516);
+    box-shadow:  0 0 5px 5px rgba(109, 2, 48, 0.272);
     border-color: rgb(74, 9, 69);
     
   }  
